@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{71657923-4208-0B32-8006-79BDED634827}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TPF",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
